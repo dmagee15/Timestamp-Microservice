@@ -16,7 +16,7 @@ Natural language dates will be returned in ISO 8601 format.
 
 ### Example Usage
 
-[base url]//1050109200000
+[base url]/1050109200000
 [base url]/2003-4-12
 
 ### Example Output
